@@ -246,7 +246,6 @@
   font-family: "Gallant-black";
 }
 
-
 @font-face {
   font-family: "Gallant-bold";
   src: url("./fonts/Gallant-bold.eot");
@@ -285,11 +284,11 @@
   font-style: normal;
   font-display: swap;
 }
-.Kinta-Regular{
-    font-family: "Kinta-Regular";
+.Kinta-Regular {
+  font-family: "Kinta-Regular";
 }
-.Kinta-Regular_1{
-    font-family: "Kinta-Regular_1";
+.Kinta-Regular_1 {
+  font-family: "Kinta-Regular_1";
 }
 @font-face {
   font-family: "Kinta-Regular";
@@ -316,41 +315,42 @@
   font-style: normal;
   font-display: swap;
 }
-.LiberText-TextRegular{
-    font-family: "LiberText-TextRegular";
+.LiberText-TextRegular {
+  font-family: "LiberText-TextRegular";
 }
-.LiberText-TextRounded{
-    font-family: "LiberText-TextRounded";
+.LiberText-TextRounded {
+  font-family: "LiberText-TextRounded";
 }
 @font-face {
-    font-family: "LiberText-TextRegular";
-    src: url("./fonts/LiberText-TextRegular.eot");
-    src: url("./fonts/LiberText-TextRegular.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/LiberText-TextRegular.woff2") format("woff2"),
-      url("./fonts/LiberText-TextRegular.woff") format("woff"),
-      url("./fonts/LiberText-TextRegular.ttf") format("truetype"),
-      url("./fonts/LiberText-TextRegular.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+  font-family: "LiberText-TextRegular";
+  src: url("./fonts/LiberText-TextRegular.eot");
+  src: url("./fonts/LiberText-TextRegular.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/LiberText-TextRegular.woff2") format("woff2"),
+    url("./fonts/LiberText-TextRegular.woff") format("woff"),
+    url("./fonts/LiberText-TextRegular.ttf") format("truetype"),
+    url("./fonts/LiberText-TextRegular.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
-  @font-face {
-    font-family: "LiberText-TextRounded";
-    src: url("./fonts/LiberText-TextRounded.eot");
-    src: url("./fonts/LiberText-TextRounded.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/LiberText-TextRounded.woff2") format("woff2"),
-      url("./fonts/LiberText-TextRounded.woff") format("woff"),
-      url("./fonts/LiberText-TextRounded.ttf") format("truetype"),
-      url("./fonts/LiberText-TextRounded.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: "LiberText-TextRounded";
+  src: url("./fonts/LiberText-TextRounded.eot");
+  src: url("./fonts/LiberText-TextRounded.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/LiberText-TextRounded.woff2") format("woff2"),
+    url("./fonts/LiberText-TextRounded.woff") format("woff"),
+    url("./fonts/LiberText-TextRounded.ttf") format("truetype"),
+    url("./fonts/LiberText-TextRounded.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
-
-.Crafter-Regular{
-    font-family: "Crafter-Regular";
+.Crafter-Regular {
+  font-family: "Crafter-Regular";
 }
 @font-face {
   font-family: "Crafter-Regular";
@@ -364,135 +364,140 @@
   font-style: normal;
   font-display: swap;
 }
-.Oriole-ExtraLight{
-    font-family: "Oriole-ExtraLight";
+.Oriole-ExtraLight {
+  font-family: "Oriole-ExtraLight";
 }
-.Oriole-Light{
-    font-family: "Oriole-Light";
+.Oriole-Light {
+  font-family: "Oriole-Light";
 }
-.Oriole-Regular{font-family: "Oriole-Regular";}
-.Oriole-Medium{
-    font-family: "Oriole-Medium";
+.Oriole-Regular {
+  font-family: "Oriole-Regular";
 }
-.Oriole-SemiBold{font-family: "Oriole-SemiBold";}
-.Oriole-Bold{
-    font-family: Oriole-Bold;
+.Oriole-Medium {
+  font-family: "Oriole-Medium";
 }
-.Oriole-ExtraBold{
-    font-family: Oriole-ExtraBold;
+.Oriole-SemiBold {
+  font-family: "Oriole-SemiBold";
+}
+.Oriole-Bold {
+  font-family: Oriole-Bold;
+}
+.Oriole-ExtraBold {
+  font-family: Oriole-ExtraBold;
 }
 @font-face {
-    font-family: "Oriole-ExtraLight";
-    src: url("./fonts/Oriole-ExtraLight.eot");
-    src: url("./fonts/Oriole-ExtraLight.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-ExtraLight.woff2") format("woff2"),
-      url("./fonts/Oriole-ExtraLight.woff") format("woff"),
-      url("./fonts/Oriole-ExtraLight.ttf") format("truetype"),
-      url("./fonts/Oriole-ExtraLight.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+  font-family: "Oriole-ExtraLight";
+  src: url("./fonts/Oriole-ExtraLight.eot");
+  src: url("./fonts/Oriole-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-ExtraLight.woff2") format("woff2"),
+    url("./fonts/Oriole-ExtraLight.woff") format("woff"),
+    url("./fonts/Oriole-ExtraLight.ttf") format("truetype"),
+    url("./fonts/Oriole-ExtraLight.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 @font-face {
-    font-family: "Oriole-Light";
-    src: url("./fonts/Oriole-Light.eot");
-    src: url("./fonts/Oriole-Light.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-Light.woff2") format("woff2"),
-      url("./fonts/Oriole-Light.woff") format("woff"),
-      url("./fonts/Oriole-Light.ttf") format("truetype"),
-      url("./fonts/Oriole-Light.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: "Oriole-Regular";
-    src: url("./fonts/Oriole-Regular.eot");
-    src: url("./fonts/Oriole-Regular.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-Regular.woff2") format("woff2"),
-      url("./fonts/Oriole-Regular.woff") format("woff"),
-      url("./fonts/Oriole-Regular.ttf") format("truetype"),
-      url("./fonts/Oriole-Regular.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: "Oriole-Medium";
-    src: url("./fonts/Oriole-Medium.eot");
-    src: url("./fonts/Oriole-Medium.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-Medium.woff2") format("woff2"),
-      url("./fonts/Oriole-Medium.woff") format("woff"),
-      url("./fonts/Oriole-Medium.ttf") format("truetype"),
-      url("./fonts/Oriole-Medium.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: "Oriole-SemiBold";
-    src: url("./fonts/Oriole-SemiBold.eot");
-    src: url("./fonts/Oriole-SemiBold.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-SemiBold.woff2") format("woff2"),
-      url("./fonts/Oriole-SemiBold.woff") format("woff"),
-      url("./fonts/Oriole-SemiBold.ttf") format("truetype"),
-      url("./fonts/Oriole-SemiBold.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: "Oriole-Bold";
-    src: url("./fonts/Oriole-Bold.eot");
-    src: url("./fonts/Oriole-Bold.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-Bold.woff2") format("woff2"),
-      url("./fonts/Oriole-Bold.woff") format("woff"),
-      url("./fonts/Oriole-Bold.ttf") format("truetype"),
-      url("./fonts/Oriole-Bold.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+  font-family: "Oriole-Light";
+  src: url("./fonts/Oriole-Light.eot");
+  src: url("./fonts/Oriole-Light.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-Light.woff2") format("woff2"),
+    url("./fonts/Oriole-Light.woff") format("woff"),
+    url("./fonts/Oriole-Light.ttf") format("truetype"),
+    url("./fonts/Oriole-Light.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Oriole-Regular";
+  src: url("./fonts/Oriole-Regular.eot");
+  src: url("./fonts/Oriole-Regular.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-Regular.woff2") format("woff2"),
+    url("./fonts/Oriole-Regular.woff") format("woff"),
+    url("./fonts/Oriole-Regular.ttf") format("truetype"),
+    url("./fonts/Oriole-Regular.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Oriole-Medium";
+  src: url("./fonts/Oriole-Medium.eot");
+  src: url("./fonts/Oriole-Medium.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-Medium.woff2") format("woff2"),
+    url("./fonts/Oriole-Medium.woff") format("woff"),
+    url("./fonts/Oriole-Medium.ttf") format("truetype"),
+    url("./fonts/Oriole-Medium.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Oriole-SemiBold";
+  src: url("./fonts/Oriole-SemiBold.eot");
+  src: url("./fonts/Oriole-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-SemiBold.woff2") format("woff2"),
+    url("./fonts/Oriole-SemiBold.woff") format("woff"),
+    url("./fonts/Oriole-SemiBold.ttf") format("truetype"),
+    url("./fonts/Oriole-SemiBold.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Oriole-Bold";
+  src: url("./fonts/Oriole-Bold.eot");
+  src: url("./fonts/Oriole-Bold.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-Bold.woff2") format("woff2"),
+    url("./fonts/Oriole-Bold.woff") format("woff"),
+    url("./fonts/Oriole-Bold.ttf") format("truetype"),
+    url("./fonts/Oriole-Bold.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
-  @font-face {
-    font-family: "Oriole-ExtraBold";
-    src: url("./fonts/Oriole-ExtraBold.eot");
-    src: url("./fonts/Oriole-ExtraBold.eot?#iefix") format("embedded-opentype"),
-      url("./fonts/Oriole-ExtraBold.woff2") format("woff2"),
-      url("./fonts/Oriole-ExtraBold.woff") format("woff"),
-      url("./fonts/Oriole-ExtraBold.ttf") format("truetype"),
-      url("./fonts/Oriole-ExtraBold.svg#Crafter-Regular") format("svg");
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
+@font-face {
+  font-family: "Oriole-ExtraBold";
+  src: url("./fonts/Oriole-ExtraBold.eot");
+  src: url("./fonts/Oriole-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Oriole-ExtraBold.woff2") format("woff2"),
+    url("./fonts/Oriole-ExtraBold.woff") format("woff"),
+    url("./fonts/Oriole-ExtraBold.ttf") format("truetype"),
+    url("./fonts/Oriole-ExtraBold.svg#Crafter-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
+.ProdaSans-Book {
+  font-family: "ProdaSans-Book";
+}
+.ProdaSans-Thin {
+  font-family: "ProdaSans-Thin";
+}
+.ProdaSans-Light {
+  font-family: "ProdaSans-Light";
+}
+.ProdaSans-Regular {
+  font-family: "ProdaSans-Regular";
+}
+.ProdaSans-Medium {
+  font-family: "ProdaSans-Medium";
+}
+.ProdaSans-SemiBold {
+  font-family: "ProdaSans-SemiBold";
+}
+.ProdaSans-Bold {
+  font-family: "ProdaSans-Bold";
+}
 
-.ProdaSans-Black{
-    font-family: "ProdaSans-Black";
+.ProdaSans-Black {
+  font-family: "ProdaSans-Black";
 }
-.ProdaSans-ExtraBold{
-    font-family: "ProdaSans-ExtraBold"; 
-}
-.ProdaSans-Light{font-family: "ProdaSans-Light";}
-.ProdaSans-Book{
-    font-family: "ProdaSans-Book";
-}
-.ProdaSans-Light{
-    font-family: "ProdaSans-Light";
-}
-.ProdaSans-Bold{ font-family: "ProdaSans-Bold";}
-.ProdaSans-SemiBold{
-    font-family: "ProdaSans-SemiBold";
-}
-.ProdaSans-Thin{
-    font-family: "ProdaSans-Thin";
-}
-.ProdaSans-Regular{
-    font-family: "ProdaSans-Regular";
-}
-.ProdaSans-Medium{
-    font-family: "ProdaSans-Medium";
+.ProdaSans-ExtraBold {
+  font-family: "ProdaSans-ExtraBold";
 }
 
 @font-face {
@@ -521,7 +526,6 @@
   font-display: swap;
 }
 
-
 @font-face {
   font-family: "ProdaSans-Book";
   src: url("./fonts/ProdaSans-Book.eot");
@@ -534,7 +538,6 @@
   font-style: normal;
   font-display: swap;
 }
-
 
 @font-face {
   font-family: "ProdaSans-Light";
@@ -562,10 +565,6 @@
   font-display: swap;
 }
 
-
-
-
-
 @font-face {
   font-family: "ProdaSans-SemiBold";
   src: url("./fonts/ProdaSans-SemiBold.eot");
@@ -579,7 +578,6 @@
   font-display: swap;
 }
 
-
 @font-face {
   font-family: "ProdaSans-Thin";
   src: url("./fonts/ProdaSans-Thin.eot");
@@ -592,7 +590,6 @@
   font-style: normal;
   font-display: swap;
 }
-
 
 @font-face {
   font-family: "ProdaSans-Regular";
@@ -620,80 +617,61 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: "Proda Sans";
-  src: url("./fonts/ProdaSans-ThinItalic.eot");
-  src: url("./fonts/ProdaSans-ThinItalic.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/ProdaSans-ThinItalic.woff2") format("woff2"),
-    url("./fonts/ProdaSans-ThinItalic.woff") format("woff"),
-    url("./fonts/ProdaSans-ThinItalic.ttf") format("truetype"),
-    url("./fonts/ProdaSans-ThinItalic.svg#ProdaSans-ThinItalic") format("svg");
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
+.selectify {
+  font-family: Selectify;
 }
 
 @font-face {
-  font-family: "Proda Sans";
-  src: url("./fonts/ProdaSans-SemiBoldItalic.eot");
-  src: url("./fonts/ProdaSans-SemiBoldItalic.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/ProdaSans-SemiBoldItalic.woff2") format("woff2"),
-    url("./fonts/ProdaSans-SemiBoldItalic.woff") format("woff"),
-    url("./fonts/ProdaSans-SemiBoldItalic.ttf") format("truetype"),
-    url("./fonts/ProdaSans-SemiBoldItalic.svg#ProdaSans-SemiBoldItalic")
-      format("svg");
-  font-weight: 600;
+  font-family: "Selectify";
+  src: url("./fonts/Selectify.otf") format("otf");
+  src: url("./fonts/Selectify.ttf") format("ttf"),
+    url("./fonts/Selectify.woff") format("woff"),
+    url("./fonts/Selectify.woff2") format("woff2");
+  font-weight: 900;
   font-style: italic;
   font-display: swap;
 }
-
+.TimelessHorizon-Regular {
+  font-family: TimelessHorizon-Regular;
+}
 @font-face {
-  font-family: "Visby CF";
-  src: url("./fonts/VisbyCF-HeavyOblique.eot");
-  src: url("./fonts/VisbyCF-HeavyOblique.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/VisbyCF-HeavyOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-HeavyOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-HeavyOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-HeavyOblique.svg#VisbyCF-HeavyOblique") format("svg");
+  font-family: "TimelessHorizon-Regular";
+  src: url("./fonts/TimelessHorizon-Regular.otf") format("otf");
+  src: url("./fonts/TimelessHorizon-Regular.ttf") format("ttf"),
+    url("./fonts/TimelessHorizon-Regular.woff") format("woff"),
+    url("./fonts/TimelessHorizon-Regular.woff2") format("woff2");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
 }
 
-@font-face {
-  font-family: "Visby CF Extra";
-  src: url("./fonts/VisbyCF-ExtraBoldOblique.eot");
-  src: url("./fonts/VisbyCF-ExtraBoldOblique.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/VisbyCF-ExtraBoldOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-ExtraBoldOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-ExtraBoldOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-ExtraBoldOblique.svg#VisbyCF-ExtraBoldOblique")
-      format("svg");
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
+.VisbyCF-Thin {
+  font-family: "VisbyCF-Thin";
+}
+.VisbyCF-Light {
+  font-family: "VisbyCF-Light";
+}
+.VisbyCF-Regular {
+  font-family: "VisbyCF-Regular";
+}
+.VisbyCF-Medium {
+  font-family: "VisbyCF-Medium";
+}
+.VisbyCF-Bold {
+  font-family: "VisbyCF-Bold";
+}
+.VisbyCF-ExtraBold {
+  font-family: "VisbyCF-ExtraBold";
+}
+.VisbyCF-Heavy {
+  font-family: "VisbyCF-Heav";
+}
+.VisbyCF-DemiBold {
+  font-family: "VisbyCF-DemiBold";
 }
 
 @font-face {
-  font-family: "Visby CF";
-  src: url("./fonts/VisbyCF-LightOblique.eot");
-  src: url("./fonts/VisbyCF-LightOblique.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/VisbyCF-LightOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-LightOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-LightOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-LightOblique.svg#VisbyCF-LightOblique") format("svg");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Visby CF";
+  font-family: "VisbyCF-Heavy";
   src: url("./fonts/VisbyCF-Heavy.eot");
   src: url("./fonts/VisbyCF-Heavy.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-Heavy.woff2") format("woff2"),
@@ -706,7 +684,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF Demi";
+  font-family: "VisbyCF-DemiBold";
   src: url("./fonts/VisbyCF-DemiBold.eot");
   src: url("./fonts/VisbyCF-DemiBold.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-DemiBold.woff2") format("woff2"),
@@ -719,7 +697,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF";
+  font-family: "VisbyCF-Light";
   src: url("./fonts/VisbyCF-Light.eot");
   src: url("./fonts/VisbyCF-Light.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-Light.woff2") format("woff2"),
@@ -732,21 +710,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF";
-  src: url("./fonts/VisbyCF-MediumOblique.eot");
-  src: url("./fonts/VisbyCF-MediumOblique.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/VisbyCF-MediumOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-MediumOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-MediumOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-MediumOblique.svg#VisbyCF-MediumOblique") format("svg");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Visby CF Extra";
+  font-family: "VisbyCF-ExtraBold";
   src: url("./fonts/VisbyCF-ExtraBold.eot");
   src: url("./fonts/VisbyCF-ExtraBold.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-ExtraBold.woff2") format("woff2"),
@@ -759,35 +723,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF";
-  src: url("./fonts/VisbyCF-BoldOblique.eot");
-  src: url("./fonts/VisbyCF-BoldOblique.eot?#iefix") format("embedded-opentype"),
-    url("./fonts/VisbyCF-BoldOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-BoldOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-BoldOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-BoldOblique.svg#VisbyCF-BoldOblique") format("svg");
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Visby CF Demi";
-  src: url("./fonts/VisbyCF-DemiBoldOblique.eot");
-  src: url("./fonts/VisbyCF-DemiBoldOblique.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/VisbyCF-DemiBoldOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-DemiBoldOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-DemiBoldOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-DemiBoldOblique.svg#VisbyCF-DemiBoldOblique")
-      format("svg");
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Visby CF";
+  font-family: "VisbyCF-Medium";
   src: url("./fonts/VisbyCF-Medium.eot");
   src: url("./fonts/VisbyCF-Medium.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-Medium.woff2") format("woff2"),
@@ -800,7 +736,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF";
+  font-family: "VisbyCF-Bold";
   src: url("./fonts/VisbyCF-Bold.eot");
   src: url("./fonts/VisbyCF-Bold.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-Bold.woff2") format("woff2"),
@@ -813,20 +749,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF";
-  src: url("./fonts/VisbyCF-ThinOblique.eot");
-  src: url("./fonts/VisbyCF-ThinOblique.eot?#iefix") format("embedded-opentype"),
-    url("./fonts/VisbyCF-ThinOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-ThinOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-ThinOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-ThinOblique.svg#VisbyCF-ThinOblique") format("svg");
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Visby CF";
+  font-family: "VisbyCF-Thin";
   src: url("./fonts/VisbyCF-Thin.eot");
   src: url("./fonts/VisbyCF-Thin.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-Thin.woff2") format("woff2"),
@@ -839,7 +762,7 @@
 }
 
 @font-face {
-  font-family: "Visby CF";
+  font-family: "VisbyCF-Regular";
   src: url("./fonts/VisbyCF-Regular.eot");
   src: url("./fonts/VisbyCF-Regular.eot?#iefix") format("embedded-opentype"),
     url("./fonts/VisbyCF-Regular.woff2") format("woff2"),
@@ -848,20 +771,5 @@
     url("./fonts/VisbyCF-Regular.svg#VisbyCF-Regular") format("svg");
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Visby CF";
-  src: url("./fonts/VisbyCF-RegularOblique.eot");
-  src: url("./fonts/VisbyCF-RegularOblique.eot?#iefix")
-      format("embedded-opentype"),
-    url("./fonts/VisbyCF-RegularOblique.woff2") format("woff2"),
-    url("./fonts/VisbyCF-RegularOblique.woff") format("woff"),
-    url("./fonts/VisbyCF-RegularOblique.ttf") format("truetype"),
-    url("./fonts/VisbyCF-RegularOblique.svg#VisbyCF-RegularOblique")
-      format("svg");
-  font-weight: normal;
-  font-style: italic;
   font-display: swap;
 }
