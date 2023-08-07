@@ -1,0 +1,12 @@
+/* Webfont: LiberText-TextRounded */@font-face {
+    font-family: 'TextRounded';
+    src: url('LiberText-TextRounded.eot'); /* IE9 Compat Modes */
+    src: url('LiberText-TextRounded.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('LiberText-TextRounded.woff') format('woff'), /* Modern Browsers */
+         url('LiberText-TextRounded.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('LiberText-TextRounded.svg#LiberText-TextRounded') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
